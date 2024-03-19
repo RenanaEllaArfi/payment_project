@@ -1,0 +1,14 @@
+{
+    "PORT" : "8080",
+    "HOST" : "localhost",
+    "NODE_ENV": "development",
+    "DB_NAME": "sales-system-main-us-1",
+    "SQL_HOST": "localhost",
+    "SQL_PORT": "3346",
+    "SQL_USER": "root",
+    "SQL_PASSWORD": "renana123",
+    "APP_SECRET": "renanaSecret",
+    "HTTP_LOG_PATH": "./logs/http.log",
+    "ERRORS_LOG_PATH": "./logs/errors.log",
+    "jwtSecretKey": "jwtSecretKey"
+}
